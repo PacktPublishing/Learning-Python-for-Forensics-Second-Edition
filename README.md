@@ -1,8 +1,8 @@
 # Learning Python for Forensics - Second Edition
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/designing-machine-learning-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781789341690"><img src="https://www.packtpub.com/sites/default/files/B11317.png" alt="Learning Python for Forensics - Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/learning-python-forensics-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341690"><img src="https://www.packtpub.com/sites/default/files/B11317.png" alt="Learning Python for Forensics - Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Learning Python for Forensics - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/designing-machine-learning-systems-python?utm_source=github&utm_medium=repository&utm_campaign=9781789341690), published by Packt.
+This is the code repository for [Learning Python for Forensics - Second Edition](https://www.packtpub.com/networking-and-servers/learning-python-forensics-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341690), published by Packt.
 
 **Leverage the power of Python in forensic investigations**
 
