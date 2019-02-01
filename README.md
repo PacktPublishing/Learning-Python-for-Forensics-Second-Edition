@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Mastering Reverse Engineering [[Packt]](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering?utm_source=github&utm_medium=repository&utm_campaign=9781788838849) [[Amazon]](https://www.amazon.com/dp/B07BXTBP8W)
 
-* Learning Android Forensics - Second Edition [https://www.packtpub.com/networking-and-servers/learning-android-forensics-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789131017) [[Amazon]](https://www.amazon.com/dp/1789131014)
+* Learning Android Forensics - Second Edition [[Packt]](https://www.packtpub.com/networking-and-servers/learning-android-forensics-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789131017) [[Amazon]](https://www.amazon.com/dp/1789131014)
 
 ## Get to Know the Author(s)
 **Preston Miller**
