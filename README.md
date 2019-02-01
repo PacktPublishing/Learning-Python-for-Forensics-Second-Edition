@@ -34,7 +34,7 @@ The code will look like the following:
 **Following is what you need for this book:**
 If you are a forensics student, hobbyist, or professional seeking to increase your understanding in forensics through the use of a programming language, then Learning Python for Forensics is for you. You are not required to have previous experience in programming to learn and master the content within this book. This material, created by forensic professionals, was written with a unique perspective and understanding for examiners who wish to learn programming.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book.
 
 ### Software and Hardware List
 
