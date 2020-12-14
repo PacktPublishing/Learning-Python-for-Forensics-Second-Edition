@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learning Python for Forensics - Second Edition
 
 <a href="https://www.packtpub.com/networking-and-servers/learning-python-forensics-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341690"><img src="https://www.packtpub.com/sites/default/files/B11317.png" alt="Learning Python for Forensics - Second Edition" height="256px" align="right"></a>
